@@ -1,0 +1,23 @@
+{
+  "name": "job-scraper-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalKumar-1/job-scraper-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunalKumar-1/job-scraper-api/issues"
+  },
+  "homepage": "https://github.com/KunalKumar-1/job-scraper-api#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
